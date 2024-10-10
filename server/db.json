@@ -1,0 +1,79 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Nguyen Van A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Nguyen Trai, Hanoi",
+      "phone": "0912345678",
+      "status": true,
+      "created_at": "2024-10-01T09:00:00Z"
+    },
+    {
+      "student_name": "Nguyen Van H",
+      "email": "nguyenvanH@example.com",
+      "address": "123 Nguyen Trai, Hanoi",
+      "phone": "0912345678",
+      "status": true,
+      "created_at": "2024-10-01T09:00:00Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "student_name": "Tran Van C",
+      "email": "tranvanc@example.com",
+      "address": "789 Tran Hung Dao, Da Nang",
+      "phone": "0923456789",
+      "status": true,
+      "created_at": "2024-10-03T11:15:00Z"
+    },
+    {
+      "id": 4,
+      "student_name": "Pham Thi D",
+      "email": "phamthid@example.com",
+      "address": "12 Le Thanh Ton, Can Tho",
+      "phone": "0931234567",
+      "status": true,
+      "created_at": "2024-10-04T08:45:00Z"
+    },
+    {
+      "id": 5,
+      "student_name": "Do Van E",
+      "email": "dovane@example.com",
+      "address": "34 Hoang Hoa Tham, Hue",
+      "phone": "0948765432",
+      "status": false,
+      "created_at": "2024-10-05T09:30:00Z"
+    },
+    {
+      "student_name": "Nguyen Van D",
+      "email": "nguyenvand@example.com",
+      "address": "123 Nguyen Trai, Hanoi",
+      "phone": "0978456321",
+      "status": true,
+      "created_at": "2024-10-01T09:00:00Z",
+      "id": 6
+    },
+    {
+      "student_name": "Lại Hoàng Nam",
+      "email": "namlh@gmail.com",
+      "address": "Hà Nam",
+      "phone": "0355135005",
+      "id": 7
+    },
+    {
+      "student_name": "Nguyễn Đình Dương",
+      "email": "ndd@gmail.com",
+      "address": "Nghệ An\n",
+      "phone": "0456789123",
+      "id": 8
+    },
+    {
+      "student_name": "Nguyễn Xuân Nhất",
+      "email": "nxn@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0546123789",
+      "id": 9
+    }
+  ]
+}
