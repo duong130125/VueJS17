@@ -56,7 +56,7 @@
                 <td>{{ student.phone }}</td>
                 <td>
                   <a
-                    href="#"
+                    href="#editEmployeeModal"
                     class="edit"
                     @click.prevent="openEditModal(student)"
                   >
