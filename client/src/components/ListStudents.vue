@@ -304,7 +304,6 @@ const newStudent = ref({
   phone: "",
 });
 const editingStudent = ref({
-  id: null,
   student_name: "",
   email: "",
   address: "",

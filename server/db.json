@@ -32,7 +32,7 @@
       "student_name": "Pham Thi D",
       "email": "phamthid@example.com",
       "address": "12 Le Thanh Ton, Can Tho",
-      "phone": "0931234567",
+      "phone": "0378941526",
       "status": true,
       "created_at": "2024-10-04T08:45:00Z"
     },
@@ -74,6 +74,13 @@
       "address": "Hải Dương",
       "phone": "0546123789",
       "id": 9
+    },
+    {
+      "student_name": "Phạm Trang Hiếu",
+      "email": "pth@gmail.com",
+      "address": "Đắk Lắk",
+      "phone": "0963852741",
+      "id": 10
     }
   ]
 }
